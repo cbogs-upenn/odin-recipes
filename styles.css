@@ -1,0 +1,40 @@
+* {
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    box-sizing: border-box;
+}
+
+body {
+    background-color: bisque;
+    margin-left: 3em;
+}
+
+h1 {
+    font-size: 3em;
+    margin-bottom: 0em;
+}
+
+
+a:visited {
+    color: saddlebrown;
+}
+
+ul {
+    line-height: 1.3em; 
+}
+
+.recipelist {
+    font-weight: bold;
+    font-size: 1em;
+}
+
+.hero {
+    height: 300px;
+    width: auto;
+    padding-top: 1em;
+
+}
+
+#description {
+    font-size: 1.2em;
+}
+

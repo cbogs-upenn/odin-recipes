@@ -4,22 +4,39 @@
 }
 
 body {
-    background-color: bisque;
+    background-color: rgb(229, 242, 250);
     margin-left: 3em;
 }
 
 h1 {
     font-size: 3em;
     margin-bottom: 0em;
+    background-color: rgb(167, 176, 255);
+    padding: .35em;
+    color: rgb(0, 0, 0);
+    width: 30em;
 }
 
 
 a:visited {
-    color: saddlebrown;
+    color: rgb(19, 53, 139);
 }
 
 ul {
     line-height: 1.3em; 
+}
+
+li {
+    background-color: whitesmoke;
+    padding: 10px;
+    margin: 20px;
+    width: 20em;
+    font-size: 1.5em;
+}
+
+li:hover {
+    background-color: rgb(167, 176, 255);
+    color: gold;
 }
 
 .recipelist {
